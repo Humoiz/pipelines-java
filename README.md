@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/hmoiz52/testing/_apis/build/status/Humoiz.pipelines-java?branchName=master)](https://dev.azure.com/hmoiz52/testing/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
